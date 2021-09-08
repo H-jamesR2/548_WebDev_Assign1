@@ -1,24 +1,50 @@
 body {
-    font-family: Gill Sans, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     background-color: rgb(229, 255, 0);
     text-align: center;
-  }
-  
-  a {
-    text-decoration: none;
-    color: rgb(108, 105, 255);
-    background-color: rgb(240, 230, 250);
-    padding: 10px;
-  }
-  
+}
   img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 30%;
-  
   }
   
   .link {
     margin: 20px;
   }
+  
+/* Animal Button Area */
+button {
+    text-decoration: none;
+    color: rgb(108, 105, 255);
+    background-color: rgb(240, 230, 250);
+    padding: 10px;
+    border-radius: 10px;
+}
+#animalButtonArea > button {
+    margin-left: auto;
+    margin-right: auto;
+    width:40px;
+    height:10px;
+    margin:2px;
+}
+#animal1 {background: rgb(47, 160, 47);}
+#animal1:active, #button1.lit{
+  background: green;
+}
+
+#animal2 {background: rgb(86, 136, 228);}
+#animal2:active, #button2.lit{
+  background: blue;
+}
+
+#animal3 {background: rgb(250, 121, 121);}
+#animal3:active, #button3.lit{
+  background: red;
+}
+
+#animal4 {background: rgb(238, 238, 148);}
+#animal4:active, #button4.lit{
+  background: yellow;
+}
