@@ -15,9 +15,9 @@ body {
   }
   
 /* Animal Button Area */
-button {
+button { /* text_config x*/
     text-decoration: none;
-    color: rgb(108, 105, 255);
+    color: rgb(57, 56, 134);
     background-color: rgb(240, 230, 250);
     padding: 10px;
     border-radius: 10px;
