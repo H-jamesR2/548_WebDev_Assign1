@@ -23,11 +23,11 @@ button {
     border-radius: 10px;
 }
 #animalButtonArea > button {
-    margin-left: auto;
-    margin-right: auto;
     width:120px;
     height:35px;
     margin:2px;
+    margin-left: auto;
+    margin-right: auto;
 }
 #animal1 {background: rgb(63, 202, 63);}
 #animal1:active, #animal1.lit{
