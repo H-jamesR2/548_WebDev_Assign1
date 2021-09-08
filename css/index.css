@@ -29,22 +29,22 @@ button {
     height:10px;
     margin:2px;
 }
-#animal1 {background: rgb(47, 160, 47);}
-#animal1:active, #button1.lit{
+#animal1 {background: rgb(63, 202, 63);}
+#animal1:active, #animal1.lit{
   background: green;
 }
 
 #animal2 {background: rgb(86, 136, 228);}
-#animal2:active, #button2.lit{
+#animal2:active, #animal2.lit{
   background: blue;
 }
 
 #animal3 {background: rgb(250, 121, 121);}
-#animal3:active, #button3.lit{
+#animal3:active, #animal3.lit{
   background: red;
 }
 
-#animal4 {background: rgb(238, 238, 148);}
-#animal4:active, #button4.lit{
-  background: yellow;
+#animal4 {background: rgb(212, 161, 241);}
+#animal4:active, #animal4.lit{
+  background: violet;
 }
