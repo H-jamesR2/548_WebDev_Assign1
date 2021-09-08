@@ -6,6 +6,6 @@
    * Name* 
    * Image(s) of Animal*
    * At least 'one' paragraph of information on animal *
-   * 
+ 
 **Site Page:**
 * https://jamswhat2.github.io/548_WebDev_Assign1/ *
