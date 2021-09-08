@@ -8,5 +8,6 @@
    * At least 'one' paragraph of information on animal 
 * Planned Animals: 
    * peccary, mandrill, puppy, pig, ferret
-**Site Page:**
+
+* Site Page:
 * https://jamswhat2.github.io/548_WebDev_Assign1/ 
