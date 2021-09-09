@@ -1,0 +1,36 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(86, 136, 228);
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+  
+.link {
+    margin: 20px;
+}
+
+/* Button Area */
+button { /* text_config x*/
+    text-decoration: none;
+    color: rgb(57, 56, 134);
+    background-color: rgb(240, 230, 250);
+    padding: 10px;
+    border-radius: 10px;
+}
+#buttonArea > button {
+    margin-left: auto;
+    margin-right: auto;
+    width:150px;
+    height:50px;
+    margin:2px;
+}
+
+#mainpage {background: rgb(229, 255, 0);}
+#mainpage:active, #mainpage.lit{
+    background: yellow;
+}
