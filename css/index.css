@@ -48,3 +48,8 @@ button { /* text_config x*/
 #animal4:active, #animal4.lit{
   background: violet;
 }
+
+#animal5 {background: rgb(250, 200, 225);}
+#animal5:active, #animal5.lit{
+  background: pink;
+}
